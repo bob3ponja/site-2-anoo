@@ -1,0 +1,176 @@
+
+ h1 {
+width: -389px;
+position: absolute;
+color: #5EC8AE;
+height: 62.01px;
+left: -700px;
+top: 500px;
+background: #5EC8AE;
+transform: matrix(0, 1, -1, 0, 0, 0);
+}
+
+header img {
+position: absolute;
+width: 170px;
+height: 170px;
+left: 72px;
+top: 10px;
+background: url(Foto-99.png);
+border-radius: 50%;
+}
+
+header h2 {
+position: absolute;
+height: 100px;
+left: calc(50% - 532px/2 + 0px);
+top: calc(50% - 100px/2 - 350px);
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 75px;
+line-height: 119px;
+color: #000000;
+mix-blend-mode: normalheader;
+
+
+
+
+}
+
+.inicio {
+position: absolute;
+height: 100px;
+left: calc(50% - 532px/2 + 50px);
+top: calc(50% - 100px/2 - 250px);
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 119px;
+color: #000000;
+mix-blend-mode: normal;
+}
+
+.galeria {
+
+position: absolute;
+height: 100px;
+left: calc(50% - 532px/2 + 250px);
+top: calc(50% - 100px/2 - 250px);
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 119px;
+color: #000000;
+mix-blend-mode: normal;
+}
+
+.contato {
+
+position: absolute;
+height: 100px;
+left: calc(50% - 532px/2 + 450px);
+top: calc(50% - 100px/2 - 250px);
+font-family: cursive;
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 119px;
+color: #000000;
+mix-blend-mode: normal;
+
+}
+
+nav a {
+	text-transform: uppercase;
+	color: #000000;
+	font-weight: bold;
+	font-size: 32px;
+	text-decoration: none;
+}
+
+nav a:hover {
+	color: #C78C19;
+	font-size: 40px;
+	text-decoration: underline;
+}
+
+h3 {
+  box-sizing: border-box;
+color: #ffffff;
+position: absolute;
+width: 1411.02px;
+height: 0px;
+left: calc(50% - 1311.02px/2 + 70.51px);
+top: 210.85px;
+
+border: 3px solid #5EC8AE;
+transform: matrix(1, -0.01, 0.01, 1, 0, 0);
+}
+
+h4 {
+	position: absolute;
+	height: 100px;
+	left: calc(50% - 532px/2 + -300px);
+	top: calc(50% - 100px/2 - 100px);
+	font-family: cursive;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 42px;
+	line-height: 119px;
+	color: #000000;
+	mix-blend-mode: normalheader;
+}
+
+p {
+	position: absolute;
+	height: 100px;
+	left: calc(50% - 532px/2 + -300px);
+	top: calc(50% - 100px/2 - 7px);
+	font-family: cursive;
+	font-style: normal;
+	font-weight: 300;
+	font-size: 24px;
+	line-height: 33px;
+	color: #000000;
+	mix-blend-mode: normal;
+}
+
+.lulaF {
+	position: absolute;
+	width: 170px;
+	height: 370px;
+	left: 650px;
+	top: 450px;
+}
+
+.lulaC {
+	position: absolute;
+	width: 170px;
+	height: 370px;
+	left: 650px;
+	top: 750px;
+}
+
+.lulaL {
+	position: absolute;
+	width: 170px;
+	height: 370px;
+	left: 650px;
+	top: 950px;
+}
+
+footer {
+  position: absolute;
+	text-align: center;
+	background: #C0C0C0;
+	padding: 40px 0;
+	top: 100px;
+}
+
+footer p {
+	font-size: 13px;
+    margin: 20px 0 0;
+}
